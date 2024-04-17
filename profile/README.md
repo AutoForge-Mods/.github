@@ -23,3 +23,5 @@ Here you can get in touch with me as well as other developers and creators in th
 
 **AutoForge** created by [Siege Games](https://playautoforge.com/)
 
+[AutoForge Official Discord](https://discord.gg/dBECMZ2mwG)
+
