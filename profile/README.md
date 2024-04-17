@@ -7,7 +7,7 @@
 
 **AutoForge mod support** :green_circle:
 
-Formally GMT Mods I am bringing all of my work under the Fading Lotus Umbrella. Mods will be publically available here.
+Support Available below
 
 
 ## Get Involved <img src="https://i.imgur.com/MbuKhjB.png" title="" alt="" width="40">
@@ -17,8 +17,9 @@ My community can be located here [Fading Lotus : Discord Server](https://discord
 Here you can get in touch with me as well as other developers and creators in the community.
 
 
-## Support Me <img src="https://i.imgur.com/7F7QXJz.png" title="" alt="" width="40">
+## Credits <img src="https://i.imgur.com/7F7QXJz.png" title="" alt="" width="40">
 
-TBD
+**Mods may use assets already found within the games file or screenshots taken from within game**
 
+**AutoForge** created by [Siege Games](https://playautoforge.com/)
 
